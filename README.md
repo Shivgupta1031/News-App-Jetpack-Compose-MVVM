@@ -10,4 +10,4 @@ Libraries Used:
 3. Navigation Component
 4. Retrofit
 
-I Have Followed This Playlist To Make This App : https://www.youtube.com/watch?v=LFlobqW8Sy8
+I Have Followed This Video Tutorial To Make This App : https://www.youtube.com/watch?v=LFlobqW8Sy8
